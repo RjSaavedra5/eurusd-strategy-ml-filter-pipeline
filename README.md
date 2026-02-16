@@ -1,6 +1,6 @@
-# Proyecto Fin de Máster: Trading Algorítmico con Machine Learning
+# Proyecto Fin de Máster: Estrategia de trading estadístico en mercados financieros basado en modelos de Machine Learning
 
-Este repositorio contiene el código y los notebooks desarrollados como apoyo para mi Proyecto de Fin de Máster. El objetivo del proyecto es el diseño, validación y optimización de una estrategia de trading algorítmico sobre el par EUR/USD, integrando técnicas de Machine Learning para mejorar la toma de decisiones.
+Este repositorio contiene el código y los notebooks desarrollados como apoyo para mi Proyecto de Fin de Máster. El objetivo del proyecto es el diseño, validación y optimización de una estrategia de trading sobre el par EUR/USD, integrando técnicas de Machine Learning para mejorar la toma de decisiones.
 
 ## Estructura del Repositorio
 
@@ -28,12 +28,12 @@ El proyecto se divide en 7 etapas principales, documentadas en los siguientes no
 
 ### [05_ml_longs.ipynb](05_ml_longs.ipynb)
 **Machine Learning para Operaciones en Largo**
-*   Ingeniería de características (feature engineering) específica para compras (Longs).
+*   Seleccion de la etiqueta, Ingeniería de características (feature engineering) específica para compras (Longs).
 *   Entrenamiento, validación y selección de modelos de ML para filtrar y optimizar las señales de entrada en largo.
 
 ### [06_ml_shorts.ipynb](06_ml_shorts.ipynb)
 **Machine Learning para Operaciones en Corto**
-*   Ingeniería de características específica para ventas (Shorts).
+*   Sleccion de la etiqueta, Ingeniería de características específica para ventas (Shorts).
 *   Entrenamiento y validación de modelos para mejorar la eficacia de las señales de entrada en corto.
 
 ### [07_resultados_finales.ipynb](07_resultados_finales.ipynb)
